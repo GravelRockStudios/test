@@ -1,0 +1,23 @@
+Necropolis: Rise of the Undying
+Copyright (c) 2026 Apoped. All rights reserved.
+
+Code and assets
+
+These terms apply to the copyrightable code, writing and assets in this game
+owned by Apoped.
+
+You may download, store and play the game for personal use, free of charge.
+You may make local backup copies for that use.
+
+No other permission is granted to redistribute, sell, sublicense or reuse the
+game's code or assets, or to distribute modified versions, without prior
+written permission from Apoped, except as otherwise permitted by applicable law.
+
+These terms do not override any applicable third-party license or claim rights
+in material owned by others, public-domain material, ideas, game mechanics or
+mathematical methods. Any third-party rights remain with their respective owners.
+
+To the extent permitted by applicable law, the game is provided as is, without
+warranties of any kind.
+
+Permission inquiries: gravelrockstudios@gmail.com

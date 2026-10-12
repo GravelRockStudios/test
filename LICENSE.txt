@@ -1,0 +1,67 @@
+Game License Terms (Apoped)
+
+Licensor: Apoped, an individual developer in Michigan, USA.
+Contact: GravelRockStudios@gmail.com
+
+These terms apply to any game, demo, update, or package that Apoped distributes under this license or identifies as covered by it (the “Game”). They don’t change the terms of earlier releases.
+
+1. Who’s who
+
+“You” means the person receiving the Game. Apoped owns the intellectual property in the Game, except third-party material, which stays with its owners under their own licenses.
+
+2. Playing the Game
+
+If you lawfully get a copy from Apoped or an authorized seller, you may download, install, store, and play it for personal entertainment on devices you own or control. You may keep reasonable backup copies for your own use, with all notices intact. Free Games cost nothing. Paid Games require the price the seller shows. This license doesn’t grant access to other games, expansions, or future titles.
+
+3. Videos, streams, screenshots, and reviews
+
+You may record, stream, and publish gameplay, including monetized content, and make reviews, guides, and screenshots. Credit Apoped and the Game’s title. Don’t imply your content is official or endorsed by Apoped without written permission. This doesn’t allow distributing playable copies or source code. Third-party music and other licensed content may have their own restrictions.
+
+4. What you can’t do
+
+Except as this license or the law allows, you may not:
+
+a. Redistribute, sell, sublicense, rent, host, or otherwise share copies of the Game or modified versions.
+b. Reuse Apoped’s code, art, writing, music, or sound effects in another game or product.
+c. Publish modified versions containing protected material, or remove credits to hide where material came from.
+d. Use Apoped’s branding to suggest an official product or endorsement.
+
+You may make private modifications for your own offline play, as long as you don’t distribute them, affect other players, or interfere with an online service. Apoped doesn’t provide official modding support.
+
+Nothing here prevents you from creating similar mechanics, using unprotected ideas, or doing anything the law permits regardless of contract terms.
+
+5. Ownership and AI-assisted material
+
+Apoped claims only the rights it actually holds, such as protected human-authored expression and the selection and arrangement of material. It doesn’t claim public-domain material, ideas, or anything ineligible for copyright. Some Games may include AI-assisted content, and these terms don’t claim that all of it is copyrightable. Third-party licenses govern their own material.
+
+6. Purchases and refunds
+
+The seller’s price, payment, and refund policies apply to purchases, along with the platform’s terms. Nothing here removes any refund or remedy the law requires for a defective or misdescribed product.
+
+7. Saves, updates, and online features
+
+Games can have bugs, and compatibility varies by device, browser, and platform. Saves can be lost, for example after clearing browser data or changing devices, so use any export or backup feature to keep copies of progress you care about. Apoped doesn’t guarantee uninterrupted service, error-free play, or permanent saves, but will meet any legally required obligations. Online or payment features may have separate disclosed terms, and any personal data collection is described in the Game’s privacy notice.
+
+8. Disclaimer
+
+EXCEPT WHERE THE LAW REQUIRES OTHERWISE, THE GAME IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Some jurisdictions don’t allow certain disclaimers for digital content. There, this section applies only to the extent permitted.
+
+9. Limitation of liability
+
+TO THE FULLEST EXTENT THE LAW ALLOWS, APOPED IS NOT LIABLE FOR INDIRECT OR CONSEQUENTIAL LOSSES, INCLUDING LOST PROFITS OR LOST SAVE PROGRESS. APOPED’S TOTAL LIABILITY FOR A GAME IS LIMITED TO WHAT YOU PAID FOR IT THROUGH APOPED OR AN AUTHORIZED SELLER (ZERO FOR FREE GAMES). These limits don’t apply to fraud, willful misconduct, gross negligence, personal injury caused by negligence, or anything the law doesn’t allow to be limited, and they don’t reduce mandatory consumer remedies.
+
+10. Termination
+
+If you materially breach these terms, Apoped may end your license. Where the breach can be fixed, Apoped will give written notice and 30 days to cure it. Immediate termination applies only to incurable breaches or to stop ongoing unauthorized distribution or harm to others. After termination, stop using the Game and delete your copies, except records the law requires you to keep. Your consumer rights and third-party rights are unaffected.
+
+11. Governing law and contact
+
+Michigan law and applicable U.S. federal law govern these terms, except where mandatory law in your place of residence provides otherwise. These terms don’t require arbitration or waive class actions, and you keep any court-access rights where you live.
+
+For permission requests, support, or disputes:
+Apoped, Michigan, USA
+GravelRockStudios@gmail.com
+
+12. Other provisions
+
+If any part is unenforceable, the rest still applies. Revised terms apply to future releases and don’t change the terms of copies already obtained.

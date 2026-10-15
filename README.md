@@ -14,7 +14,7 @@ Your progress saves in your browser. Use Options to export a save before changin
 
 ## Latest update
 
-Recruitment and upgrades are together again. Each tier's upgrades sit below its recruitment controls, with more space between sections and a single column on smaller screens.
+Upgrades are back below your units. Time Warp sits above the energy upgrades. Save codes are shorter and still work entirely offline.
 
 The ZIP includes release notes and the game files. Older downloads remain here for players who need them.
 
